@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(212, 234, 255);
+}
+
+.container{
+    margin-left: 37%;
+    margin-top: 15%;
+    padding: 20px;
+    width: 300px;
+    height: 470px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 0;
+}
+
+.qrcontainer img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
+.textcon{
+    text-align: center;
+}
+.textcon p{
+    color: rgb(101, 101, 101);
+}
